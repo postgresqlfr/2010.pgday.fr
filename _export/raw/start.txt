@@ -1,0 +1,23 @@
+
+====== PG Day France 2012 ======
+
+~~NOTOC~~
+
+**La conférence de la communauté francophone de PostgreSQL **
+
+Cette année la conférence se tiendra le 7 juin dans les locaux de l'INSA à Lyon.
+
+{{  :pgday-group-picture.jpg  |}}
+
+Le PG Day France est un moment de rencontres et de conférence pour la communauté francophone de PostgreSQL. Les conférences s'adresses à tous les utilisateurs du logiciel : étudiants, administrateur systèmes, DBA, développeurs, chefs de Projets, décideurs, etc. 
+
+**Les inscriptions sont ouvertes !**
+
+Réservez vite ! Le nombre de places est limité.
+
+http://pgday.fr/inscriptions
+
+===== Twitter =====
+
+{{rss>http://search.twitter.com/search.atom?q=%23pgdayfr 10 date author 10m }}
+

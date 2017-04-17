@@ -1,0 +1,9 @@
+====== Presse ======
+
+[[http://phpsolmag.org/prt/view/nos-articles.html|{{:phpsolutions.png|PHP Solutions' logo}}]]
+
+[[http://phpsolmag.org|PHP Solutions]] parle du PGDay 2009 sur son [[http://phpsolmag.org/prt/view/pgday.html|site web]].
+
+[[http://www.ed-diamond.com/|{{:glmf.jpg|GNU/Linux France Magazine's logo}}]]
+
+[[http://www.ed-diamond.com/|GNU/Linux Magazine France]] parle du PGDay 2009 dans son [[http://www.ed-diamond.com/rubriquemagactu.php?id_rubrique=2&caracteristique=1-2-&caracdisp=2-4-|hors-série sur PostgreSQL]].

@@ -1,0 +1,20 @@
+~~NOTOC~~
+
+====== Sponsors ======
+
+
+===== Gold =====
+
+[[http://www.dalibo.com|{{  :dalibo_big_.png  |Audit PostgreSQL, Formation PostgreSQL, Support PostgreSQL}}]]
+
+[[http://2ndquadrant.fr|{{  :2ndquadrant-300x75.jpg  |  2ndQuadrant : Expertise PostgreSQL}}]]
+===== Silver =====
+
+{{  :edb_logo_bluebk_rgb_300.jpg?300  |}}
+
+===== Bronze =====
+
+
+ [[http://www.oslandia.com|{{  :oslandia_logo_big_fondblanc.png?200 |}}]]
+
+ [[http://www.auriga.fr/|{{  :logo_auriga_cmjn.jpg?200  |}}]]

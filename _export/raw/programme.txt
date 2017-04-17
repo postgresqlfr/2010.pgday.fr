@@ -1,0 +1,29 @@
+====== Programme ======
+
+Voici le programme ! 
+
+**09h00** : Ouverture des portes
+
+**09h30** : Keynote d'ouverture
+
+**09h45** : [[Disponibilité et Durabilité, Architectures et Réplications]] par Dimitri Fontaine {{:replis.pdf|Téléchargez la présentation}}
+
+**10h30** : [[E-Maj ... par l'image]] par Philippe Beaudouin
+
+**11h15** : pause
+
+**11h45** : [[Postgresql, PostGis en collectivité territoriale]] par Vincent Kober & Céline Pellorce {{:pgday_2012_06_07.pdf|Téléchargez la présentation}}
+
+**12h30** : repas
+
+**14h00**  : [[Utilisation de foreign data wrappers dans différents contextes]] par Ronan Dunklau
+
+**14h45** : [[PostGIS 2.0, la géo nouvelle génération]] par Vincent Picavet 
+
+**15h30** : Pause
+
+**16h00** : [[PostgreSQL-f]] par Grégory SMITS
+
+**16h45** : [[Benchmark Tsung pour PostgreSQL]] par Cédric Villemain
+
+**17h30** : Cloture
